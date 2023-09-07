@@ -22,7 +22,7 @@ Ce projet utilisera Html, CSS, Vanilla Javascript, gsap.
 <br>
 <p align="center">
 
-Voir Mon Portfolio :
+Voir La Landing Page :
 <br>
 
 <p align="center">
