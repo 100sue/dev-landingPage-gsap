@@ -124,7 +124,9 @@ input[type="submit"]:hover {
 }
 .card img {
     width: 37em;
-    margin-left: 250px;  
+    justify-content: space-around;  
+    align-items: center;
+    
 }
 .card:before {
     position: absolute;
@@ -215,6 +217,9 @@ footer .angle-line {
     .features .card .title {
         margin-top: 0;
    }
+   .about {
+    display: flex;
+   }
     footer {
         padding: 3em;
    }
@@ -223,6 +228,7 @@ footer .angle-line {
     .form {
         width: 75%;
    }
+
 }
 @media only screen and (min-width: 1200px) {
     .hero {
